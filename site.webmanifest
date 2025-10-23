@@ -11,7 +11,20 @@
  ],
  "description": "PWA con componentes de Material Design.",
  "screenshots": [
- 
+  {
+   "src": "./img/screenshot_horizontal.png",
+   "sizes": "1852x911",
+   "type": "image/png",
+   "form_factor": "wide",
+   "label": "PWA con Material Design"
+  },
+  {
+   "src": "./img/screenshot_vertical.png",
+   "sizes": "465x875",
+   "type": "image/png",
+   "form_factor": "narrow",
+   "label": "PWA con Material Design (2)"
+  }
  ],
  "icons": [
   {
