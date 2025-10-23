@@ -51,8 +51,6 @@ const ARCHIVOS = [
  "img/maskable_icon_x512.png",
  "img/maskable_icon_x72.png",
  "img/maskable_icon_x96.png",
- "img/screenshot_horizontal.png",
- "img/screenshot_vertical.png",
  "js/configura.js",
  "js/nav-bar.js",
  "js/nav-drw.js",
